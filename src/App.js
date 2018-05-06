@@ -1,9 +1,13 @@
 import React, { Component } from 'react';
 
-export default class App extends Component {
+class App extends Component {
     render() {
         return (
-            <div>Hellos React!</div>
+          <div>
+            <div>Hello React!</div>
+            <div>Hello Reacts!</div>
+          </div>
         );
     }
 }
+export default App
