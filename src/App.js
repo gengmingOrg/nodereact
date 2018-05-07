@@ -5,7 +5,7 @@ class App extends Component {
         return (
           <div>
             <div>Hello React!</div>
-            <div>Hello Reacts!</div>
+            <div>Hello React!</div>
           </div>
         );
     }
